@@ -106,7 +106,7 @@ This module covers portions of the following domains on the Security+ exam:
 
 For more information about these Security+ domains, refer to the following resource: Security+ Exam Objectives
 
-Additional Reading and Resources 
+Additional Reading and Resources
 
 These resources are provided as optional, recommended resources to supplement the concepts covered in this module.
 
